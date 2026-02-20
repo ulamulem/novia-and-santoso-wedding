@@ -1967,7 +1967,7 @@ a.bar-icon:hover {
 .img-kanan {
   right: 0;
   position: absolute;
-  top: 200px;
+  top: 280px;
 }
 
 .img-kanan-profile {
@@ -2474,7 +2474,7 @@ span.w3-button:hover {
 }
 
 .block-detail {
-  margin: 2rem 20px;
+  margin: 2rem 0;
   border-radius: 10px;
   background: #f0f8ff45;
   width: 90%;
@@ -2484,7 +2484,7 @@ span.w3-button:hover {
 }
 
 .doa-awal {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 400;
   line-height: 38px;
   margin: 1rem 0;
@@ -2499,7 +2499,7 @@ span.w3-button:hover {
 }
 
 .akad-nikah {
-  font-size: 64px;
+  font-size: 60px;
   font-weight: 600;
   margin: 3rem 0;
 }
@@ -2508,7 +2508,7 @@ span.w3-button:hover {
   font-size: 13px;
   font-weight: 400;
   line-height: 21px;
-  width: 370px;
+  width: 100%;
   color: #fff;
   letter-spacing: normal;
 }
@@ -2551,6 +2551,7 @@ span.w3-button:hover {
   display: flex;
   flex-direction: column;
   margin: 50px 0;
+  margin-bottom: 0 !important;
 }
 
 .wedding-time {
@@ -2860,12 +2861,12 @@ li span {
     font-size: 13px;
     font-weight: 400;
     line-height: 21px;
-    width: 300px;
+    /* width: 300px; */
     color: #fff;
     letter-spacing: normal;
   }
   .akad-nikah {
-    font-size: 64px;
+    font-size: 60px;
     font-weight: 600;
     line-height: 80px;
     margin: 1rem 0;
@@ -3040,7 +3041,7 @@ li span {
     font-size: 13px;
     font-weight: 400;
     line-height: 21px;
-    width: 400px;
+    /* width: 400px; */
     color: #fff;
     letter-spacing: normal;
   }
@@ -3220,7 +3221,7 @@ li span {
     font-size: 13px;
     font-weight: 400;
     line-height: 21px;
-    width: 320px;
+    /* width: 320px; */
     color: #fff;
     letter-spacing: normal;
   }
@@ -3524,7 +3525,8 @@ li span {
   position: relative;
   text-align: right;
   height: 400px;
-  width: 376px;
+  max-width: 376px;
+  width: 100%;
 }
 
 .gmap_canvas {
