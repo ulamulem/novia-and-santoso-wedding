@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0809720a.css",
+    "main.js": "./static/js/main.d40ae2f6.js",
+    "static/js/453.adc189de.chunk.js": "./static/js/453.adc189de.chunk.js",
+    "static/media/fonts_loombu_cardo-regular.ttf": "./static/media/fonts_loombu_cardo-regular.2dc0460f6cf826a08884.ttf",
+    "static/media/fonts_loombu_cardo-bold.ttf": "./static/media/fonts_loombu_cardo-bold.eb2463cc658e07750b54.ttf",
+    "static/media/fonts_loombu_cardo-italic.ttf": "./static/media/fonts_loombu_cardo-italic.8eca68a55dff34f807dd.ttf",
+    "static/media/fonts_loombu_ventura_times.ttf": "./static/media/fonts_loombu_ventura_times.321a8a4ed515ca0c9d9f.ttf",
+    "static/media/fonts_loombu_amalfi-coast.ttf": "./static/media/fonts_loombu_amalfi-coast.7053d5d29a10e03381f5.ttf",
+    "static/media/fonts_loombu_newyork.ttf": "./static/media/fonts_loombu_newyork.9b56c09ebe5a27505721.ttf",
+    "static/media/fonts_loombu_sono-bold.woff2": "./static/media/fonts_loombu_sono-bold.38759cbad3711a7ccf9c.woff2",
+    "static/media/fonts_loombu_sono-medium.woff2": "./static/media/fonts_loombu_sono-medium.86dcfc2d783adf6818bf.woff2",
+    "static/media/fonts_loombu_sono-semibold.woff2": "./static/media/fonts_loombu_sono-semibold.d5d8c72bedcb3f1de013.woff2",
+    "static/media/fonts_loombu_sono-regular.woff2": "./static/media/fonts_loombu_sono-regular.81e048b03dfa96881a3d.woff2",
+    "static/media/fonts_loombu_sono-light.woff2": "./static/media/fonts_loombu_sono-light.6ea2efba48bc04466b12.woff2",
+    "static/media/fonts_loombu_sono-extrabold.woff2": "./static/media/fonts_loombu_sono-extrabold.666fb1c8f1a2ae6bdaec.woff2",
+    "static/media/fonts_loombu_sono-extralight.woff2": "./static/media/fonts_loombu_sono-extralight.88b2a62f0001b9d87569.woff2",
+    "static/media/tropical_summer_signature-webfont.woff": "./static/media/tropical_summer_signature-webfont.c1f9289a79f5fab3012d.woff",
+    "static/media/tropical_summer_signature-webfont.woff2": "./static/media/tropical_summer_signature-webfont.17a68d6f1f7791e2fe12.woff2",
+    "static/media/fonts_loombu_rsvpfont.eot": "./static/media/fonts_loombu_rsvpfont.717a88d8f318b10120e7.eot",
+    "static/media/fonts_loombu_wdpfont.eot": "./static/media/fonts_loombu_wdpfont.717a88d8f318b10120e7.eot",
+    "static/media/fonts_loombu_fontello.eot": "./static/media/fonts_loombu_fontello.7a40df9b39726a23a1f1.eot",
+    "index.html": "./index.html",
+    "static/media/fonts_loombu_slick.eot": "./static/media/fonts_loombu_slick.a4e97f5a2a64f0ab1323.eot",
+    "main.0809720a.css.map": "./static/css/main.0809720a.css.map",
+    "main.d40ae2f6.js.map": "./static/js/main.d40ae2f6.js.map",
+    "453.adc189de.chunk.js.map": "./static/js/453.adc189de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0809720a.css",
+    "static/js/main.d40ae2f6.js"
+  ]
+}
