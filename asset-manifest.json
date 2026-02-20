@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.0809720a.css",
-    "main.js": "./static/js/main.7149d930.js",
+    "main.css": "./static/css/main.bc09a9f4.css",
+    "main.js": "./static/js/main.fbd7ec20.js",
     "static/js/453.adc189de.chunk.js": "./static/js/453.adc189de.chunk.js",
     "static/media/fonts_loombu_cardo-regular.ttf": "./static/media/fonts_loombu_cardo-regular.2dc0460f6cf826a08884.ttf",
     "static/media/fonts_loombu_cardo-bold.ttf": "./static/media/fonts_loombu_cardo-bold.eb2463cc658e07750b54.ttf",
@@ -23,12 +23,12 @@
     "static/media/fonts_loombu_fontello.eot": "./static/media/fonts_loombu_fontello.7a40df9b39726a23a1f1.eot",
     "index.html": "./index.html",
     "static/media/fonts_loombu_slick.eot": "./static/media/fonts_loombu_slick.a4e97f5a2a64f0ab1323.eot",
-    "main.0809720a.css.map": "./static/css/main.0809720a.css.map",
-    "main.7149d930.js.map": "./static/js/main.7149d930.js.map",
+    "main.bc09a9f4.css.map": "./static/css/main.bc09a9f4.css.map",
+    "main.fbd7ec20.js.map": "./static/js/main.fbd7ec20.js.map",
     "453.adc189de.chunk.js.map": "./static/js/453.adc189de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0809720a.css",
-    "static/js/main.7149d930.js"
+    "static/css/main.bc09a9f4.css",
+    "static/js/main.fbd7ec20.js"
   ]
 }
